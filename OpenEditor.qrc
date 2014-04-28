@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/application_settings.png</file>
+        <file>icon/close_all_tabs.png</file>
+        <file>icon/close_other_tabs.png</file>
+        <file>icon/close_project.png</file>
+        <file>icon/close_tab.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/cut.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/filesystem_active_file_directory.png</file>
+        <file>icon/filesystem_home_directory.png</file>
+        <file>icon/filesystem_parent_directory.png</file>
+        <file>icon/filesystem_project_directory.png</file>
+        <file>icon/help_about.png</file>
+        <file>icon/help_feedback.png</file>
+        <file>icon/help_quickstart.png</file>
+        <file>icon/help_user_manual.png</file>
+        <file>icon/help_wiki_page.png</file>
+        <file>icon/new_file.png</file>
+        <file>icon/new_project.png</file>
+        <file>icon/open_file.png</file>
+        <file>icon/open_project.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/project_settings.png</file>
+        <file>icon/quit.png</file>
+        <file>icon/recent_projects.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/save.png</file>
+        <file>icon/save_all.png</file>
+        <file>icon/save_as.png</file>
+        <file>icon/save_project.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/view_fullscreen.png</file>
+        <file>icon/zoom_in.png</file>
+        <file>icon/zoom_original.png</file>
+        <file>icon/zoom_out.png</file>
+    </qresource>
+</RCC>

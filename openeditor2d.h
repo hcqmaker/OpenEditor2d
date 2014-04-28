@@ -7,6 +7,8 @@ namespace Ui {
     class OpenEditor2d;
 }
 
+class ImagePack;
+
 class OpenEditor2d : public QMainWindow
 {
     Q_OBJECT
@@ -17,6 +19,7 @@ public:
 
 private:
     Ui::OpenEditor2d *ui;
+    ImagePack *mImagePack;
 };
 
 #endif // OPENEDITOR2D_H
