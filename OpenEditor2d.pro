@@ -48,7 +48,8 @@ SOURCES += main.cpp\
     lua-5.2.3/lauxlib.c \
     lua-5.2.3/lapi.c \
     scriptengine.cpp \
-    datahelp.cpp
+    datahelp.cpp \
+    imagepackscene.cpp
 
 HEADERS  += openeditor2d.h \
     configini.h \
@@ -79,7 +80,8 @@ HEADERS  += openeditor2d.h \
     lua-5.2.3/lauxlib.h \
     lua-5.2.3/lapi.h \
     scriptengine.h \
-    datahelp.h
+    datahelp.h \
+    imagepackscene.h
 
 FORMS    += openeditor2d.ui \
     imagepack.ui \
